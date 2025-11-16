@@ -84,7 +84,7 @@
 <div align="center">
 
 [![Hanaya Shop](https://github-readme-stats.vercel.app/api/pin/?username=leducanhtai&repo=Hanaya-Shop&theme=tokyonight)](https://github.com/leducanhtai/Hanaya-Shop)
-[![English Learning Web](https://github-readme-stats.vercel.app/api/pin/?username=leducanhtai&repo=English-Learning-Web&theme=tokyonight)](https://github.com/leducanhtai/English-Learning-Web)
+[![English Learning Web](https://github-readme-stats.vercel.app/api/pin/?username=leducanhtai&repo=SafeZone&theme=tokyonight)](https://github.com/leducanhtai/SafeZone)
 
 </div>
 
